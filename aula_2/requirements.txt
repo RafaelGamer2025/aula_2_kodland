@@ -1,0 +1,10 @@
+# Este projeto utiliza bibliotecas nativas do Python 3.
+# Nenhuma dependência externa precisa ser instalada via pip.
+# (eu acho)
+# Bibliotecas utilizadas:
+tkinter
+secrets
+string
+os
+datetime
+random
